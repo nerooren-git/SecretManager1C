@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="d1247a15-33b1-462d-a90f-a4947c9d2f2d">
+		<Name>Администратор</Name>
+		<Code>000000002</Code>
+		<Description>Администратор</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="3ba40f2c-9387-4fdc-a36e-207d4ab1fed8">
+		<Name>Пользователь</Name>
+		<Code>000000003</Code>
+		<Description>Пользователь</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="c86bbdd1-7376-485a-9135-0c0134846378">
+		<Name>Робот</Name>
+		<Code>000000001</Code>
+		<Description>Робот</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
